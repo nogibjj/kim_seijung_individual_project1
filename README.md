@@ -31,7 +31,7 @@ The project structure must include the following files:
 
 
 # About the Dataset
-![Alt text](path/to/Amazon-Logo.webp)
+![Alt text](Amazon-Logo.webp)
 
 The `Amazon-Products-100k.csv` file used in this project is from the Amazon Products Sales Dataset 2023, obtained via Kaggle (). This is a product sales dataset scraped from the Amazon website from the year 2023, including a total of 142 item categories such as Fine Art, Dog Supplies, etc. The csv file was truncated to contain the first 100k rows of data from the original full products csv file due to the large size and memory limits for GitHub storage. The csv file consists of 10 columns with a row number and the following 9 variables.
 
