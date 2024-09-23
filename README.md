@@ -1,4 +1,5 @@
 Check CI/CD Status: 
+
 [![Install](https://github.com/nogibjj/kim_seijung_individual_project1/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/kim_seijung_individual_project1/actions/workflows/install.yml)
 
 [![Format](https://github.com/nogibjj/kim_seijung_individual_project1/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/kim_seijung_individual_project1/actions/workflows/format.yml)
