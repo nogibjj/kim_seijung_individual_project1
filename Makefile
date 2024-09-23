@@ -15,5 +15,6 @@ lint:
 	nbqa ruff *.ipynb
 
 deploy:
+	echo "No deployment steps specified yet."
 		
 all: install lint test format
