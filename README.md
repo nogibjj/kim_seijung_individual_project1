@@ -70,4 +70,4 @@ Python Scripts
 5. To check the full status of the CI/CD pipeline, navigate to the Actions tab of your repository on GitHub.
 
 ## Video DEMO
-Use this [YouTube Link](https://www.example.com) to watch me walking through this project
+Use this [YouTube Link](https://youtu.be/igOlb8ZQ1dA) to watch me walking through this project
