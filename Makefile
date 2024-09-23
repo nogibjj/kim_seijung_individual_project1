@@ -15,6 +15,10 @@ lint:
 	nbqa ruff *.ipynb
 
 deploy:
-	echo "No deployment steps specified yet."
+	git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+	git config --local user.name "github-actions[bot]"
+	git add Amazon_Sales_Report.pdf
+	git commit -m "Add updated report"
+	git push
 		
 all: install lint test format
